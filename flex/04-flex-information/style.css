@@ -30,7 +30,7 @@ img {
 .main {
   display: flex;
   flex-direction: column;
-  align-items: center;
+  text-align: center;
 }
 
 .images {
@@ -43,8 +43,4 @@ img {
   display:flex;
   flex-direction: column;
   align-items: center;
-}
-
-.text {
-  text-align: center;
 }
